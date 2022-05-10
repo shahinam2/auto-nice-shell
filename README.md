@@ -16,6 +16,12 @@ As I study different DevOps technologies, I frequently need to start different V
 - zsh-autosuggestions (It suggests commands as you type based on history and completions.)
 
 ## To install this script, copy and paste the following script to your terminal and install it without sudo:
-
+```shell
+sudo apt update && sudo apt install git -y \
+&& git clone https://github.com/shahinam2/perfect-shell-convenient-script.git \
+&& cd perfect-shell-convenient-script \
+&& chmod +x oh-my-zsh-convenient-installer-script.sh \
+&& ./oh-my-zsh-convenient-installer-script.sh
+```
 
 ## The final result:
