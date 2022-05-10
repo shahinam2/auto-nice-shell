@@ -25,3 +25,6 @@ sudo apt update && sudo apt install git -y \
 ```
 
 ## The final result:
+![2022-05-10_15h55_08](https://user-images.githubusercontent.com/32401073/167645675-7b4ee87e-c872-4e19-aa5e-178f8999c8f6.png)
+
+![2022-05-10_15h55_38](https://user-images.githubusercontent.com/32401073/167645694-2ac8af96-8892-4715-921f-3780c6d912b5.png)
