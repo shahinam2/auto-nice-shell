@@ -15,7 +15,7 @@ As I study different DevOps technologies, I frequently need to start different V
 - zsh-syntax-highlighting (This package provides syntax highlighting for the shell zsh. It enables highlighting of commands whilst they are typed at a zsh prompt into an interactive terminal. This helps in reviewing commands before running them, particularly in catching syntax errors.)
 - zsh-autosuggestions (It suggests commands as you type based on history and completions.)
 
-## To install this script, copy and paste the following script to your terminal and install it without sudo:
+## To install this script, copy and paste the following script to your terminal:
 ```shell
 sudo apt update && sudo apt install git -y \
 && git clone https://github.com/shahinam2/perfect-shell-convenient-script.git \
