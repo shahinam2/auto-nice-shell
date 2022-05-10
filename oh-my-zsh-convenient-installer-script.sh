@@ -13,7 +13,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 # installing plugins:
 mkdir -p ~/.oh-my-zsh/custom/plugins
-tar -xzvf projects.tar.gz -C ~/.oh-my-zsh/custom/plugins
+tar -xzvf plugins.tar.gz -C ~/.oh-my-zsh/custom/plugins
 
 # copy the modified .p10k.zsh and .zshrc to home directory
 mv ~/.zshrc ~/.zshrc.bak
