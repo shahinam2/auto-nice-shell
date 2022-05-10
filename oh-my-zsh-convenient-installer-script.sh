@@ -20,13 +20,6 @@ mv ~/.zshrc ~/.zshrc.bak
 cp .zshrc ~/.zshrc
 cp .p10k.zsh ~/.p10k.zsh
 
-# zsh-syntax-highlighting:
-# git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-# # zsh-autosuggestions:
-# git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-# # Zsh-z:
-# git clone https://github.com/agkozak/zsh-z $ZSH_CUSTOM/plugins/zsh-z
-
 # change the default shell to zsh
 echo zsh >> ~/.bashrc
 
