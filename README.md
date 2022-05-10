@@ -7,13 +7,17 @@ As I study different DevOps technologies, I frequently need to start different V
 - oh my zsh framework
 - powerlevel10k (which is an external oh my zsh theme)
 
-### Currently the following oh my zsh plugins will be installed:
+## Currently the following oh my zsh plugins will be installed:
 - git 
 - docker
 - kubernetes
 - Zsh-z (is a command line tool that allows you to jump quickly to directories that you have visited frequently in the past, or recently -- but most often a combination of the two)
 - zsh-syntax-highlighting (This package provides syntax highlighting for the shell zsh. It enables highlighting of commands whilst they are typed at a zsh prompt into an interactive terminal. This helps in reviewing commands before running them, particularly in catching syntax errors.)
 - zsh-autosuggestions (It suggests commands as you type based on history and completions.)
+
+## Tested on:
+- Ubuntu 21.10
+- Ubuntu 22.04 LTS
 
 ## To install this script, copy and paste the following script to your terminal:
 ```shell
