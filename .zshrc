@@ -118,3 +118,7 @@ source $ZSH/oh-my-zsh.sh
 # kubectl completion script for Zsh added by shahin:
 source <(kubectl completion zsh)
 
+# solving the # symbol problem with zsh:
+unsetopt INTERACTIVE_COMMENTS
+unsetopt BAD_PATTERN
+
